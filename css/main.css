@@ -89,7 +89,7 @@ header{
 header {
   position: relative;
   height: 150px;
-  background-image: linear-gradient(#23a94c00, #248888);
+  background-image: linear-gradient(#23a94c00, Yellow);
   clip-path: polygon(
     0 0,
     100% 0,
